@@ -1,0 +1,27 @@
+*{
+    margin:5px;
+    padding: 0px;
+    font-family: sans-serif;
+    margin:auto;
+}
+
+h1{
+    color:white;
+    margin-bottom:10px;
+}
+.container{
+    padding:10px;
+    min-width: 500px;
+    max-width: 50%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #513252;
+}
+input{
+    border:dashed 1px #CA4E79;
+    width: 300px;
+}
+button{
+    width: 130px;
+}
